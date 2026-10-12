@@ -8,12 +8,12 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 
 ## Summary
 
-> Updated 2026-10-05
+> Updated 2026-10-12
 
 | Community | Reputation | Answers | Questions | Gold | Silver | Bronze |
 |-----------|-----------|---------|-----------|------|--------|--------|
 | [Stack Overflow](https://stackoverflow.com/users/7109869) | 13,968 | 389 | 32 | 5 | 74 | 97 |
-| [Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/users/23182) | 1,397 | 18 | 20 | 1 | 19 | 37 |
+| [Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/users/23182) | 1,407 | 18 | 20 | 1 | 20 | 37 |
 | [Super User](https://superuser.com/users/717009) | 931 | 14 | 11 | 5 | 17 | 25 |
 | [Meta Stack Exchange](https://meta.stackexchange.com/users/362304) | 572 | 3 | 4 | 1 | 3 | 12 |
 | [Philosophy Stack Exchange](https://philosophy.stackexchange.com/users/35436) | 509 | 0 | 6 | 0 | 3 | 12 |
@@ -43,7 +43,7 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 | [Database Administrators Stack Exchange](https://dba.stackexchange.com/users/122529) | 145 | 1 | 1 | 1 | 1 | 8 |
 | [Politics Stack Exchange](https://politics.stackexchange.com/users/23002) | 145 | 0 | 1 | 0 | 0 | 7 |
 | [Webmasters Stack Exchange](https://webmasters.stackexchange.com/users/76881) | 143 | 1 | 0 | 1 | 1 | 6 |
-| [Mathematics Stack Exchange](https://math.stackexchange.com/users/435342) | 143 | 1 | 3 | 1 | 1 | 8 |
+| [Mathematics Stack Exchange](https://math.stackexchange.com/users/435342) | 143 | 1 | 3 | 1 | 1 | 9 |
 | [Computer Science Stack Exchange](https://cs.stackexchange.com/users/70268) | 143 | 0 | 2 | 1 | 1 | 7 |
 | [Mythology & Folklore Stack Exchange](https://mythology.stackexchange.com/users/5466) | 143 | 0 | 1 | 0 | 0 | 7 |
 | [Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/226215) | 133 | 2 | 2 | 1 | 3 | 10 |
@@ -61,4 +61,4 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 | [Engineering Stack Exchange](https://engineering.stackexchange.com/users/17898) | 111 | 0 | 1 | 0 | 0 | 3 |
 | [English Language & Usage Stack Exchange](https://english.stackexchange.com/users/230539) | 103 | 0 | 1 | 1 | 1 | 6 |
 | [SharePoint Stack Exchange](https://sharepoint.stackexchange.com/users/75513) | 103 | 0 | 1 | 1 | 2 | 5 |
-| **Total** | **25,927** | **491** | **149** | **47** | **201** | **574** |
+| **Total** | **25,937** | **491** | **149** | **47** | **202** | **575** |

@@ -2,8 +2,8 @@
 
 | # | Score | Accepted | Title | Tags | Date |
 |---|-------|----------|-------|------|------|
-| 1 | 3 | ✓ | [Where is Goshen?](https://hermeneutics.stackexchange.com/a/54614) | `genesis`, `geography`, `egypt` | 2021-01-16 |
-| 2 | 3 |  | [How could King Herod have killed John the baptist in Matthew 14?](https://hermeneutics.stackexchange.com/a/69074) | `matthew`, `contradiction`, `referent-identification`, `chronology`, `niv` | 2021-09-22 |
+| 1 | 4 |  | [How could King Herod have killed John the baptist in Matthew 14?](https://hermeneutics.stackexchange.com/a/69074) | `matthew`, `contradiction`, `referent-identification`, `chronology`, `niv` | 2021-09-22 |
+| 2 | 3 | ✓ | [Where is Goshen?](https://hermeneutics.stackexchange.com/a/54614) | `genesis`, `geography`, `egypt` | 2021-01-16 |
 | 3 | 2 |  | [Is 1 Peter 1:12 saying that the angels in heaven are aware of what is happening on earth?](https://hermeneutics.stackexchange.com/a/53705) | `1-peter`, `angels` | 2020-12-16 |
 | 4 | 2 |  | [Do children have ‘guardian’ angels, according to Matthew 18:10?](https://hermeneutics.stackexchange.com/a/53712) | `matthew`, `angels` | 2020-12-16 |
 | 5 | 2 |  | [What did Nebuchadnezzar mean by "son of the gods"?](https://hermeneutics.stackexchange.com/a/53791) | `daniel` | 2020-12-19 |
