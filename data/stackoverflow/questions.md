@@ -2,10 +2,10 @@
 
 | # | Score | Views | Answers | Accepted | Title | Tags | Date |
 |---|-------|-------|---------|----------|-------|------|------|
-| 1 | 19 | 59,082 | 3 | ✓ | [ASP.NET Core 2.2: Unable to resolve service for type 'AutoMapper.IMapper'](https://stackoverflow.com/q/54239669) | `c#`, `asp.net-core`, `.net-core`, `asp.net-core-mvc` | 2019-01-17 |
+| 1 | 19 | 59,084 | 3 | ✓ | [ASP.NET Core 2.2: Unable to resolve service for type 'AutoMapper.IMapper'](https://stackoverflow.com/q/54239669) | `c#`, `asp.net-core`, `.net-core`, `asp.net-core-mvc` | 2019-01-17 |
 | 2 | 5 | 1,440 | 2 | ✓ | [Split dataset per rows into smaller files in R](https://stackoverflow.com/q/57047338) | `r`, `import`, `split`, `dataset`, `bigdata` | 2019-07-15 |
 | 3 | 5 | 2,385 | 2 | ✓ | [Unity3D playing sound when Player collides with an object with a specific tag](https://stackoverflow.com/q/59285897) | `c#`, `unity-game-engine`, `audio`, `collision` | 2019-12-11 |
-| 4 | 4 | 2,024 | 1 | ✓ | [CodeIgniter display a redirect message](https://stackoverflow.com/q/48773284) | `php`, `codeigniter`, `http-redirect` | 2018-02-13 |
+| 4 | 4 | 2,026 | 1 | ✓ | [CodeIgniter display a redirect message](https://stackoverflow.com/q/48773284) | `php`, `codeigniter`, `http-redirect` | 2018-02-13 |
 | 5 | 3 | 1,737 | 2 | ✓ | [Dynamic Badges GitHub](https://stackoverflow.com/q/49130448) | `git`, `github`, `badge`, `shields.io` | 2018-03-06 |
 | 6 | 3 | 1,068 | 2 | ✓ | [Angular app 6 in ASP.NET Core: More than one module matches](https://stackoverflow.com/q/54251659) | `angular`, `asp.net-core`, `angular6`, `angular-components` | 2019-01-18 |
 | 7 | 3 | 3,884 | 1 | ✓ | [ECCODES ERROR when opening .GRIB file in Spyder](https://stackoverflow.com/q/62939533) | `python`, `anaconda`, `spyder`, `grib`, `eccodes` | 2020-07-16 |
@@ -24,7 +24,7 @@
 | 20 | 1 | 596 | 2 | ✓ | [Import ARFF dataset using RWeka in RStudio (depencendy error: rJava)](https://stackoverflow.com/q/55692355) | `r`, `rstudio`, `data-mining`, `apriori`, `arff` | 2019-04-15 |
 | 21 | 1 | 2,344 | 1 | ✓ | [Handle equivalent holidays for different countries in Prophet](https://stackoverflow.com/q/62730316) | `python`, `pandas`, `dataframe`, `datetime`, `facebook-prophet` | 2020-07-04 |
 | 22 | 1 | 173 | 1 | ✓ | [DataFrame groupby hour and do the mean for a specific column](https://stackoverflow.com/q/64655923) | `python`, `pandas`, `dataframe`, `pandas-groupby`, `mean` | 2020-11-03 |
-| 23 | 1 | 61 | 2 | ✓ | [Go through all the files within a range in groups of 24](https://stackoverflow.com/q/65555890) | `python`, `loops`, `for-loop`, `range` | 2021-01-03 |
+| 23 | 1 | 62 | 2 | ✓ | [Go through all the files within a range in groups of 24](https://stackoverflow.com/q/65555890) | `python`, `loops`, `for-loop`, `range` | 2021-01-03 |
 | 24 | 1 | 67 | 2 | ✓ | [Generate more than one date cells in each date_range](https://stackoverflow.com/q/65601635) | `python`, `pandas`, `dataframe`, `date`, `date-range` | 2021-01-06 |
 | 25 | 1 | 526 | 1 | ✓ | [Append different strings to a list of strings depending on its position in the list](https://stackoverflow.com/q/65828594) | `python`, `string`, `list`, `loops`, `append` | 2021-01-21 |
 | 26 | 1 | 145 | 3 | ✓ | [Sum lists of lists](https://stackoverflow.com/q/65891008) | `python`, `list`, `loops`, `if-statement`, `matrix` | 2021-01-25 |
