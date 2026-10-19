@@ -4,7 +4,7 @@
 |---|-------|-------|---------|----------|-------|------|------|
 | 1 | 22 | 9,789 | 8 | ✓ | [Are 1 John 1:8 and 1 John 3:9 contradictory?](https://hermeneutics.stackexchange.com/q/60450) | `contradiction`, `sin`, `1-john`, `attributes-of-god`, `spiritual-birth` | 2021-05-17 |
 | 2 | 7 | 1,821 | 3 |  | [Why does the 1 Samuel 10:27 paragraph found in 4QSamª not appear in other texts?](https://hermeneutics.stackexchange.com/q/46656) | `textual-criticism`, `1-samuel`, `masoretic-text`, `dead-sea-scrolls` | 2020-03-30 |
-| 3 | 6 | 9,003 | 2 | ✓ | [What was the usage of the “dove dung” mentioned in 2 Kings 6:25?](https://hermeneutics.stackexchange.com/q/48724) | `historical-interpretation`, `2-kings` | 2020-06-27 |
+| 3 | 6 | 9,004 | 2 | ✓ | [What was the usage of the “dove dung” mentioned in 2 Kings 6:25?](https://hermeneutics.stackexchange.com/q/48724) | `historical-interpretation`, `2-kings` | 2020-06-27 |
 | 4 | 6 | 3,304 | 6 |  | [Has anyone seen God or not?](https://hermeneutics.stackexchange.com/q/53766) | `contradiction`, `exodus`, `judges` | 2020-12-19 |
 | 5 | 5 | 7,757 | 8 | ✓ | [What does Acts 4:22 mean by referring to the age of the man that was healed?](https://hermeneutics.stackexchange.com/q/71493) | `luke`, `acts`, `historical-interpretation`, `layers-of-meaning`, `healing` | 2021-11-27 |
 | 6 | 5 | 3,885 | 4 | ✓ | [How could they have been baptized and not have received the Spirit?](https://hermeneutics.stackexchange.com/q/74585) | `contradiction`, `acts`, `pneumatology`, `spirit`, `baptism` | 2022-02-20 |
@@ -16,7 +16,7 @@
 | 12 | 3 | 294 | 1 | ✓ | [What is a blessing?](https://hermeneutics.stackexchange.com/q/54722) | `genesis`, `jacob`, `isaac`, `blessings` | 2021-01-19 |
 | 13 | 3 | 224 | 2 | ✓ | [Did Moses present himself at the highest peak of the mount?](https://hermeneutics.stackexchange.com/q/55145) | `exodus`, `moses` | 2021-02-01 |
 | 14 | 3 | 2,431 | 3 |  | [What is the meaning behind Acts 2:44-45?](https://hermeneutics.stackexchange.com/q/69835) | `acts`, `history`, `historical-interpretation`, `body-of-christ` | 2021-10-09 |
-| 15 | 3 | 1,631 | 2 | ✓ | [Does the Bible forbid the making of representational art, or just the worship of it?](https://hermeneutics.stackexchange.com/q/69896) | `exodus`, `leviticus`, `ten-commandments`, `idolatry`, `commandments` | 2021-10-11 |
+| 15 | 3 | 1,632 | 2 | ✓ | [Does the Bible forbid the making of representational art, or just the worship of it?](https://hermeneutics.stackexchange.com/q/69896) | `exodus`, `leviticus`, `ten-commandments`, `idolatry`, `commandments` | 2021-10-11 |
 | 16 | 3 | 1,427 | 3 |  | [Did Thomas touch Jesus hand(s), or seeing was enough for him to believe?](https://hermeneutics.stackexchange.com/q/79459) | `john`, `jesus`, `gospels`, `thomas` | 2022-10-23 |
 | 17 | 2 | 332 | 1 | ✓ | [Are these passages speaking of the same Alexander?](https://hermeneutics.stackexchange.com/q/54173) | `1-timothy`, `2-timothy` | 2021-01-03 |
 | 18 | 2 | 578 | 2 |  | [Moses initial group of leaders Exodus 18:21](https://hermeneutics.stackexchange.com/q/54927) | `exodus`, `moses` | 2021-01-26 |
