@@ -8,11 +8,11 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 
 ## Summary
 
-> Updated 2026-10-19
+> Updated 2026-10-26
 
 | Community | Reputation | Answers | Questions | Gold | Silver | Bronze |
 |-----------|-----------|---------|-----------|------|--------|--------|
-| [Stack Overflow](https://stackoverflow.com/users/7109869) | 13,968 | 389 | 32 | 5 | 74 | 97 |
+| [Stack Overflow](https://stackoverflow.com/users/7109869) | 13,978 | 389 | 32 | 5 | 74 | 98 |
 | [Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/users/23182) | 1,407 | 18 | 20 | 1 | 20 | 37 |
 | [Super User](https://superuser.com/users/717009) | 931 | 14 | 11 | 5 | 17 | 25 |
 | [Meta Stack Exchange](https://meta.stackexchange.com/users/362304) | 572 | 3 | 4 | 1 | 3 | 12 |
@@ -40,7 +40,7 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 | [Photography Stack Exchange](https://photo.stackexchange.com/users/62328) | 155 | 0 | 2 | 1 | 2 | 8 |
 | [Game Development Stack Exchange](https://gamedev.stackexchange.com/users/130683) | 149 | 5 | 5 | 0 | 0 | 8 |
 | [Server Fault](https://serverfault.com/users/409911) | 145 | 1 | 1 | 1 | 2 | 10 |
-| [Database Administrators Stack Exchange](https://dba.stackexchange.com/users/122529) | 145 | 1 | 1 | 1 | 1 | 8 |
+| [Database Administrators Stack Exchange](https://dba.stackexchange.com/users/122529) | 145 | 1 | 1 | 1 | 1 | 9 |
 | [Politics Stack Exchange](https://politics.stackexchange.com/users/23002) | 145 | 0 | 1 | 0 | 0 | 7 |
 | [Webmasters Stack Exchange](https://webmasters.stackexchange.com/users/76881) | 143 | 1 | 0 | 1 | 1 | 6 |
 | [Mathematics Stack Exchange](https://math.stackexchange.com/users/435342) | 143 | 1 | 3 | 1 | 1 | 9 |
@@ -61,4 +61,4 @@ Add a free [Stack Apps key](https://stackapps.com/apps/oauth/register) as the `S
 | [Engineering Stack Exchange](https://engineering.stackexchange.com/users/17898) | 111 | 0 | 1 | 0 | 0 | 3 |
 | [English Language & Usage Stack Exchange](https://english.stackexchange.com/users/230539) | 103 | 0 | 1 | 1 | 1 | 6 |
 | [SharePoint Stack Exchange](https://sharepoint.stackexchange.com/users/75513) | 103 | 0 | 1 | 1 | 2 | 5 |
-| **Total** | **25,937** | **491** | **149** | **47** | **202** | **575** |
+| **Total** | **25,947** | **491** | **149** | **47** | **202** | **577** |

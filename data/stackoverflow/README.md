@@ -1,6 +1,6 @@
 # Stack Overflow
 
-[Profile](https://stackoverflow.com/users/7109869) | Reputation: 13,968 | Member since: 2016-11-03
+[Profile](https://stackoverflow.com/users/7109869) | Reputation: 13,978 | Member since: 2016-11-03
 
 | | Count |
 |---|---|
@@ -8,4 +8,4 @@
 | Questions | 32 |
 | Gold Badges | 5 |
 | Silver Badges | 74 |
-| Bronze Badges | 97 |
+| Bronze Badges | 98 |
