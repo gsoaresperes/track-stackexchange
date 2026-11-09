@@ -7,5 +7,5 @@
 | Answers | 389 |
 | Questions | 32 |
 | Gold Badges | 5 |
-| Silver Badges | 74 |
+| Silver Badges | 75 |
 | Bronze Badges | 98 |
